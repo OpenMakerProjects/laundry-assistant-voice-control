@@ -1,0 +1,21 @@
+{
+  "id": 73,
+  "title": "Laundry Assistant Voice Control",
+  "repository_slug": "laundry-assistant-voice-control",
+  "category": "Smart Home",
+  "platform": "Arduino Nano 33 IoT",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "BLE",
+  "components": [
+    "light sensor",
+    "door sensor",
+    "RGB LED"
+  ],
+  "scope": "Build a smart home prototype that uses light sensor, door sensor, RGB LED to accept local voice commands. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Voice Control demonstration with repeatable test steps",
+  "mode": "closed_loop_control",
+  "entrypoint": "firmware/laundry-assistant-voice-control/laundry-assistant-voice-control.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
